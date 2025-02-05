@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-Sitemap: https://app-test-nico.vercel.app/sitemap.xml
+Sitemap: https://app-test-nico-shop.vercel.app/sitemap.xml

@@ -32,5 +32,5 @@ const paths = ["/", "/projets", "/contact"];
 console.log(Sitemap);
 
 new Sitemap({ path: "/", routes: paths })
-  .build("https://app-test-nico.vercel.app")
+  .build("https://app-test-nico-shop.vercel.app")
   .save(path.join(__dirname, "../../public/sitemap.xml"));
