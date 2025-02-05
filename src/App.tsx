@@ -16,6 +16,7 @@ const App: React.FC = () => {
         <meta property="og:image" content="https://my-app-test.vercel.app/preview.png" />
         <meta property="og:url" content="https://my-app-test.vercel.vercel.app" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="author" content="Alfred Nico" />
       </Helmet>
 
       <div className="App">
