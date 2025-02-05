@@ -13,8 +13,8 @@ const App: React.FC = () => {
       <Helmet>
         <meta property="og:title" content="Portfolio de Alfred Nico" />
         <meta property="og:description" content="Découvrez mes projets en développement web et mobile..." />
-        <meta property="og:image" content="https://my-app-test.vercel.app/preview.png" />
-        <meta property="og:url" content="https://my-app-test.vercel.vercel.app" />
+        <meta property="og:image" content="https://app-test-nico.vercel.app/preview.png" />
+        <meta property="og:url" content="https://app-test-nico.vercel.app" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="author" content="Alfred Nico" />
       </Helmet>
