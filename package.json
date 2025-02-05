@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "sitemap": "ts-node src/scripts/generate-sitemap.ts",
-    "sitemapjs": "ts-node src/scripts/sitemap-generator.js"
+    "sitemapjs": "node src/scripts/sitemap-generator.js"
   },
   "eslintConfig": {
     "extends": [
